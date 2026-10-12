@@ -1,0 +1,3 @@
+Programación sintética de Sistemas de Big Data.
+Curso 2026-2027.
+Unidad 1: almacenamiento de documentos y metadatos.

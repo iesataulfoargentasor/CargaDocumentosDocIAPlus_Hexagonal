@@ -1,0 +1,17 @@
+.venv/
+.env
+.env.*
+!.env.example
+instance/*
+!instance/.gitkeep
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.DS_Store
+
+# Evidencias privadas de la instalación: conservar localmente, nunca publicar.
+docs/VERIFICACION_S3_REAL.*
+docs/prueba-*.jpg
+docs/prueba-*.png
+*.log

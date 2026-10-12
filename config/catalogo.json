@@ -1,0 +1,9 @@
+{
+  "ensenanzas": {
+    "IABD": {
+      "nombre": "Especialización en Inteligencia Artificial y Big Data",
+      "modulos": {"SBD": "Sistemas de Big Data", "BDA": "Big Data Aplicado", "PIA": "Programación de Inteligencia Artificial"}
+    }
+  },
+  "cursos": ["2025-2026", "2026-2027", "2027-2028"]
+}
